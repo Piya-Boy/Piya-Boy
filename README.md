@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-studying, and Looking for a freelance job related to web development.
+a Full Stack Web Developer and currently a student. I'm also actively seeking freelance work opportunities. I specialize in HTML, CSS, JavaScript, PHP, and MySQL
 
 * 🌍  I'm based in Chiang Rai, Thailand
 * ✉️  You can contact me at [piyaboy097@gmail.com](mailto:piyaboy097@gmail.com)
