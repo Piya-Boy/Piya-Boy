@@ -7,7 +7,7 @@ Full Stack Web Developer
 a Full Stack Web Developer and currently a student. I'm also actively seeking freelance work opportunities. I specialize in HTML, CSS, JavaScript, PHP, and MySQL
 
 * 🌍  I'm based in Chiang Rai, Thailand
-* ✉️  You can contact me at [piyaboy097@gmail.com](mailto:piyaboy097@gmail.com)
+* ✉️  You can contact me at [piyamianglae.b@gmail.com](mailto:piyamianglae.b@gmail.com)
 
 ### Skills
 
